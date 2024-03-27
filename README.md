@@ -17,7 +17,7 @@ p {
     font-family: 'Inter', sans-serif;
     font-size: 11px;
     line-height: 18px;
-    font-weight: 520;
+    font-weight: 500;
     background-color: rgba(255, 255, 255, 0.0);
     padding: 2px;
 }
